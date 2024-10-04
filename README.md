@@ -132,4 +132,4 @@ contractAddr = await contract.getAddress();
 
 #### @kaiachain/ethers-ext
 
-`ethers-ext` is a plugin library of `ethers` so it has a dependency with `ethers` version. Fortunately from ethers-ext@1.0.2, it's going to support the Ethers v5 and v6 respectively. Please look at how to switch Ethers version in [switch ethers version](https://github.com/kaiachain/kaia-sdk/pull/7#issue-2383160474).
+`ethers-ext` is a plugin library of `ethers` so it has a dependency with `ethers` version. Fortunately from ethers-ext@1.0.2, it's going to support the Ethers v5 and v6 respectively. Please look at how to switch Ethers version in [switch ethers version with ethers-ext](https://github.com/kaiachain/kaia-sdk/tree/dev/ethers-ext#ethersjs-extension-for-klaytn).
